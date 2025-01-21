@@ -1,0 +1,1 @@
+-Guess the third is the best-all possible orange looks good with the given loss function-High variance indicates that the function is underdetermined and the program doesnt know which polynomial to pick
